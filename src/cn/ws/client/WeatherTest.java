@@ -9,7 +9,7 @@ import cn.ws.weather.WeatherWebServiceStub.GetWeatherbyCityName;
 import cn.ws.weather.WeatherWebServiceStub.GetWeatherbyCityNameResponse;
 
 /**
- *天气预报 
+ *天气预报  
  */
 public class WeatherTest {
 
